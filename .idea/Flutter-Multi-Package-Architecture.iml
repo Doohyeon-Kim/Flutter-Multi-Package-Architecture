@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/apps/desktop_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/desktop_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/desktop_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/design_system/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/design_system/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/design_system/build" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/features/feature_b/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/features/feature_b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/features/feature_b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/mobile_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/mobile_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/mobile_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/web_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/web_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/apps/web_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/common/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/common/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/common/build" />
+      <excludeFolder url="file://$MODULE_DIR$/features/feature_a/build" />
+      <excludeFolder url="file://$MODULE_DIR$/features/feature_a/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/features/feature_a/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
